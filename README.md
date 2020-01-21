@@ -1,6 +1,6 @@
-# nOS - Core Staking Transactions (Crypto Package)
+# nOS - Core IPFS Transactions
 
-> ARK Crypto SDK plug-in for staking transactions.
+> Core plug-in for IPFS transactions and hosting.
 
 ## Security
 
